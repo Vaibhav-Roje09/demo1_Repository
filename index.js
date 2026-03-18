@@ -8,3 +8,7 @@ function getName(){
 function setName(abc){
     name =abc;
 }
+
+function seyHello(){
+    console.log("hello");
+}
