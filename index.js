@@ -1,6 +1,10 @@
 let a =1;
- name = "abc";
+let name = "abc";
 
 function getName(){
     return name;
+}
+
+function setName(abc){
+    name =abc;
 }
