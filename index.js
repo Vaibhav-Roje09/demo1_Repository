@@ -12,3 +12,7 @@ function setName(abc){
 function seyHello(){
     console.log("hello");
 }
+
+function gitHello(){
+    console.log("hello GIT.....");
+}
