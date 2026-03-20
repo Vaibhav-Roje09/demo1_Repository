@@ -20,3 +20,7 @@ function gitHello(){
 function helloBranch(){
     console.log("branch .....");
 }
+
+function demoBranch2(){
+    console.log("demobranch 2 ...")
+}
