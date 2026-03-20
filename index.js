@@ -16,3 +16,7 @@ function seyHello(){
 function gitHello(){
     console.log("hello GIT.....");
 }
+
+function helloBranch(){
+    console.log("branch .....");
+}
